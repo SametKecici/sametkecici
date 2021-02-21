@@ -14,7 +14,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://www.instagram.com/samtekecici/">
   <img align="left" alt="Instagram" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" />
 </a>
-<a href="https://open.spotify.com/user/sametkecici">
+<a href="https://open.spotify.com/user/hiw0g0qjyfkpv842jau8r8e2i">
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.youtube.com/sametkecici">
