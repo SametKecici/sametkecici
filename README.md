@@ -25,9 +25,9 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 
 ## My Stats
 
-![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
+![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sametkecici&show_icons=true&theme=tokyonight&layout=compact)
 
-![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinav69&show_icons=true&theme=react)
+![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sametkecici&show_icons=true&theme=react)
 
 
 ## Langauges and tools that I mainly use
