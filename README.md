@@ -2,26 +2,26 @@
 
 I'm Dinav I'm a blob lover I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
 
-<a href="https://discord.gg/RWSEj6JrjJ">
+<a href="https://discord.gg/pkvgJmuAWY">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/Dinav69">
+<a href="https://twitter.com/bucocukmal">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.reddit.com/user/Dinav69">
+<a href="https://www.reddit.com/user/sametkecici">
   <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-<a href="https://www.instagram.com/dinav_69/">
+<a href="https://www.instagram.com/samtekecici/">
   <img align="left" alt="Instagram" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" />
 </a>
-<a href="https://open.spotify.com/user/4y38lwzm4zn0vld9nfvnvv5ys">
+<a href="https://open.spotify.com/user/sametkecici">
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="https://www.youtube.com/sametkecici">
   <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
 </a>
 
-![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
+![Profile Visits]()
 
 ## My Stats
 
@@ -50,23 +50,12 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <img src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" alt="Git" width="28px"/>
 
 ## Check Out my Music Bot:
-Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
 
-Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
-
-Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
-
-[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)]
-[![Discord Bots](https://top.gg/api/widget/servers/334662655581224963.svg?noavatar=true)]
-[![Discord Bots](https://top.gg/api/widget/upvotes/334662655581224963.svg?noavatar=true)]
-[![Discord Bots](https://top.gg/api/widget/owner/334662655581224963.svg?noavatar=true)]
-
-[![Discord Bots](https://top.gg/api/widget/786209866946838528.svg)](https://top.gg/bot/786209866946838528)
 
 
 
 <!--
-**Dinav69/dinav69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sametkecici/sametkecici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
