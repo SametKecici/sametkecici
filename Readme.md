@@ -50,7 +50,7 @@ I'm Samet Keçici lover I make discord bots and other various projects also I pl
 <img src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" alt="Git" width="28px"/>
 
 ## Check Out my Music Bot:
-
+https://discord.com/oauth2/authorize?client_id=802312609595654145&scope=bot&permissions=8
 
 
 
