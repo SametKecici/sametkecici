@@ -48,18 +48,5 @@
  </a>-->
 </p>
 
-### 💪 Experience & History
-I'm coding for over 3 years. I started my journey in late 2018 / early 2019.<br>
-My first project was a simple music player made with HTML, CSS and Javascript (probably January 2019).<br>
-In the beginning I learned HTML and CSS to build websites, I also learned website design and basic JS.<br>
-In March 2020 I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers).<br>
-Over these years I have learned
- * Node.js, Express.js, JavaScript, CSS (Advanced)
- * C++, Shell (Medium)
- * PHP, Python, Bash (Medium/Low)
- * And many other languages and libraries!
 
-
-
-
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/sametkecici">Keybase: @igorkowalczyk</a></p>
+<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/sametkecici">Keybase: @sametkecici</a></p>
