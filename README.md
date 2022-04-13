@@ -1,21 +1,21 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">  
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://cdn.discordapp.com/attachments/679467308292505660/963770961683951676/circle.png">  
 
-## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+## <img src="" width="27px"> Hi! I'm Igor Kowalczyk
 > This is the place where I opensource stuff and break things :rofl:<br>
 
-[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.github.io/r/discord-server)
-[![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
-[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.github.io)](https://igorkowalczyk.github.io)
-[![Website](https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Views)](https://igorkowalczyk.github.io)
+[![Discord](https://img.shields.io/discord/334662655581224963?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.com/invite/cgygmkq)
+[![GitHub followers](https://img.shields.io/github/followers/sametkecici?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/sametkecici?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sametkecici?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/sametkecici)
+[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Fpartofgamers.com)](https://partofgamers.com)
+[![Website](https://komarev.com/ghpvc/?username=sametkecicik&style=flat-square&color=333333&label=Views)](https://partofgamers.com)
 <br><br><br>
 
 ---
 
-<a href="https://discord.com/users/544164729354977282">
- <img src="https://lanyard.cnrad.dev/api/544164729354977282?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+<a href="https://discord.com/users/265848126802231296">
+ <img src="https://lanyard.cnrad.dev/api/265848126802231296?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 <p align="left">
