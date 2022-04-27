@@ -20,12 +20,12 @@
 
 <p align="left">
  <a href="https://www.instagram.com/majonezexe/" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/instagram.svg" alt="Instagram" width="32" align="center"/>
+  <img src="https://github.com/sametkecici/sametkecici/blob/master/src/images/readme/instagram.svg" alt="Instagram" width="32" align="center"/>
  </a>
  <a href="https://twitter.com/majonezexe" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/twitter.svg" alt="Twitter" width="32" align="center"/>
+  <img src="https://github.com/sametkecici/sametkecici/blob/master/src/images/readme/twitter.svg" alt="Twitter" width="32" align="center"/>
  </a>
- <a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank">
+ <a href="https://profile.codersrank.io/user/sametkecici/" target="_blank">
   <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/codersrank.png" alt="Codersrank" width="34" align="center"/>
  </a>
  <a href="https://discord.com/users/544164729354977282" target="_blank">
